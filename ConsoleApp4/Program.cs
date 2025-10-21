@@ -10,7 +10,7 @@ namespace ConsoleApp4
             Console.WriteLine("fgfgg");
             Console.WriteLine("helhkh");
             Console.WriteLine("ssss");
-            Console.WriteLine("hgfhg");
+            Console.WriteLine("gfgg");
             Console.WriteLine("gghjgj");
         }
     }
